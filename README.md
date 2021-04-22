@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mc6ril, I'm a french 30yo living in Paris.
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML / CSS, and soon enough JS. I will integrate "Lereacteur" in June to learn more about this languages and find my first job.
+- 🌱 I’m currently learning HTML / CSS and JS since 8th of April 2021. I will integrate "Lereacteur" in June to learn more about this languages and find my first job.
 - 💞️ I’m available to work 
 - 📫 How to reach me : cyril.lesot@yahoo.fr 
 
