@@ -4,7 +4,7 @@
 - Learning : 
 -   HTML / CSS 
 -   Javascript
--   React / React Native / Redux
+-   React / React Native 
 -   NodeJs
 -   Express
 -   MongoDB
