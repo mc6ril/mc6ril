@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @mc6ril, I'm a french 30yo living in Paris.
+- 👋 Hi, I’m @mc6ril, I'm a french 31yo living in Paris.
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web developpement at Le Reacteur since June.
+- 🌱 I've just finished my formation with "Le Reacteur" at the end of August 2021. I am currently looking for an internship in Front-end developpement using React.
 - Learning : 
 -   HTML / CSS 
 -   Javascript
--   React / React Native 
+-   React / React Native / Redux
 -   NodeJs
 -   Express
--   MongoDB
+-   NoSQL with MongoDB
 -   API building and axios requests
+-   Jest
 - 💞️ I’m available to work 
 - 📫 How to reach me : cyril.lesot@yahoo.fr 
 
