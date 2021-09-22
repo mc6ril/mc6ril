@@ -20,6 +20,7 @@
 # Contact : 
 - Email : cyril.lesot@yahoo.fr 
 - LinkedIn : https://www.linkedin.com/in/cyril-lesot-384380100/
+- Portfolio : https://cyril-lesot-portfolio.vercel.app/
 
 <!---
 mc6ril/mc6ril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
