@@ -6,12 +6,13 @@
 - 🌱 I've just finished my formation with "Le Reacteur" at the end of August 2021. I am currently looking for an internship in Front-end developpement using React.
 
 # Programming languages : 
--   HTML / CSS 
+-   HTML / CSS / SCSS
 -   Javascript
 -   React / React Native / Redux
 -   NodeJs
 -   Express
 -   NoSQL with MongoDB
+-   mySQL
 -   API building and axios requests
 -   Jest
 
