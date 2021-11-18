@@ -3,7 +3,8 @@
 # About Me :
 
 - 👋 Hi, I’m @mc6ril, I'm a french 31yo living in Paris.
-- 🌱 I've just finished my formation with "Le Reacteur" at the end of August 2021. I am currently looking for an internship in Front-end developpement using React.
+- 🌱 I've just finished my formation with "Le Reacteur" at the end of August 2021. I am currently in internship at Bocoloco, a green startup in Paris.
+- Feel free to contact me !
 
 # Programming languages : 
 -   HTML / CSS / SCSS
