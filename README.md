@@ -3,7 +3,7 @@
 # About Me :
 
 - 👋 Hi, I’m @mc6ril, I'm a french 31yo living in Paris.
-- 🌱 I've just finished my formation with "Le Reacteur" at the end of August 2021. I am currently in internship at Bocoloco, a green startup in Paris.
+- 🌱 After a professional reconversion and a Bootcamp learning React / React Native, I am currently working at Perifit as Mobile Engeener since March 2022. 
 - Feel free to contact me !
 
 # Programming languages : 
@@ -23,6 +23,7 @@
 - Email : cyril.lesot@yahoo.fr 
 - LinkedIn : https://www.linkedin.com/in/cyril-lesot-384380100/
 - Portfolio : https://cyril-lesot-portfolio.vercel.app/
+- Mobile application: Simone Pump 
 
 <!---
 mc6ril/mc6ril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
