@@ -2,7 +2,7 @@
 
 # About Me :
 
-- 👋 Hi, I’m @mc6ril, I'm a french 31yo living in Paris.
+- 👋 Hi, I’m @mc6ril, I'm a french 35yo living in Paris.
 - 🌱 After a professional reconversion and a Bootcamp learning React / React Native, I am currently working at Perifit as Mobile Engeener since March 2022. 
 - Feel free to contact me !
 
@@ -23,7 +23,7 @@
 - Email : cyril.lesot@yahoo.fr 
 - LinkedIn : https://www.linkedin.com/in/cyril-lesot-384380100/
 - Portfolio : https://cyril-lesot-portfolio.vercel.app/
-- Mobile application: Simone Pump 
+- Mobile application: Perifit Pump 
 
 <!---
 mc6ril/mc6ril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
